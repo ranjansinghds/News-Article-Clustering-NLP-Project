@@ -24,6 +24,16 @@ The goal of this project is to develop an automated system that groups similar n
 - Visualize the discovered clusters.
 - Develop an interactive Streamlit application.
 
+## Streamlit Application
+
+A Streamlit application is developed to make the clustering model interactive.
+
+Users can enter a news article, and the application processes the text and predicts which cluster it belongs to.
+
+### Sample Prediction
+
+![Article Prediction](https://github.com/ranjansinghds/News-Article-Clustering-NLP-Project/blob/main/News%20Articles%20Clustering%20Project%20PNGs/News_Article_Topic_Clustering.png)
+
 ## Dataset Description
 
 This project uses the **AG News Dataset**, which contains news articles covering four major topics:
