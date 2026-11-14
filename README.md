@@ -109,14 +109,13 @@ The analysis includes:
 
 ### Data Visualizations
 
-The project includes:
+Here are some visualizations from the project:
 
-- Histograms
-- Boxplots
-- Bar charts
-- Correlation heatmaps
-- Word frequency visualizations
-- Cluster visualizations
+![alt text](https://github.com/ranjansinghds/News-Article-Clustering-NLP-Project/blob/main/News%20Articles%20Clustering%20Project%20PNGs/Word_Count_Distribution_by_Class_Index.png)
+![alt text](https://github.com/ranjansinghds/News-Article-Clustering-NLP-Project/blob/main/News%20Articles%20Clustering%20Project%20PNGs/class_distribution.png)
+![alt text](https://github.com/ranjansinghds/News-Article-Clustering-NLP-Project/blob/main/News%20Articles%20Clustering%20Project%20PNGs/news_article_clusters.png)
+![alt text](https://github.com/ranjansinghds/News-Article-Clustering-NLP-Project/blob/main/News%20Articles%20Clustering%20Project%20PNGs/text_length_distribution.png)
+![alt text](https://github.com/ranjansinghds/News-Article-Clustering-NLP-Project/blob/main/News%20Articles%20Clustering%20Project%20PNGs/top_20_words_after_stopword_removal.png)
 
 ## Text Preprocessing
 
